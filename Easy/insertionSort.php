@@ -1,4 +1,9 @@
 <?php
+/**
+ * Сортировка вставками
+ * @param array $array
+ * @return array
+ */
 function insertionSort(array $array): array
 {
 	$cnt = count($array);
