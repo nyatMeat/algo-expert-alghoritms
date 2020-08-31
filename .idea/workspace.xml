@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47a94963-61bd-406a-a86b-b8bd16101c15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Easy/depthFirstSearchBinary.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/depthFirstSearchNonBinary.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/breadthFirstSearchNonBinary.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/invertBinaryTree.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/maxSubsetSumNoAdjacent.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/powerSet.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/suffixTrieConstruction.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hard/heapsort.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hard/waterArea.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/minHeap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/permutations.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/depthFirstSearch.php" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/breadthFirstSearchBinary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/insertionSort.php" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/insertionSort.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/selectionSort.php" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/selectionSort.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/levenstainDistance.php" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/levenstainDistance.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medium/powerSet.php" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/powerSet.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,38 +37,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/linkedListConstruction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-51" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hard/heapsort.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Medium/minHeap.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Medium/invertBinaryTree.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Medium/powerSet.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy/selectionSort.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Medium/suffixTrieConstruction.php">
+        <entry file="file://$PROJECT_DIR$/Medium/levenstainDistance.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="42" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -104,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/Medium/maxSubsetSumNoAdjacent.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -148,11 +138,15 @@
         <option value="$PROJECT_DIR$/Medium/breadthFirstSearchBinary.php" />
         <option value="$PROJECT_DIR$/Medium/invertBinaryTree.php" />
         <option value="$PROJECT_DIR$/Medium/powerset.php" />
-        <option value="$PROJECT_DIR$/Medium/powerSet.php" />
         <option value="$PROJECT_DIR$/Easy/depthFirstSearch.php" />
         <option value="$PROJECT_DIR$/Easy/depthFirstSearchBinary.php" />
         <option value="$PROJECT_DIR$/Easy/insertionSort.php" />
         <option value="$PROJECT_DIR$/Easy/selectionSort.php" />
+        <option value="$PROJECT_DIR$/Medium/powerSet.php" />
+        <option value="$PROJECT_DIR$/Medium/permutations.php" />
+        <option value="$PROJECT_DIR$/Hard/waterArea.php" />
+        <option value="$PROJECT_DIR$/Hard/heapsort.php" />
+        <option value="$PROJECT_DIR$/Medium/levenstainDistance.php" />
       </list>
     </option>
   </component>
@@ -250,7 +244,16 @@
       <workItem from="1597816610921" duration="604000" />
       <workItem from="1597819743776" duration="97000" />
       <workItem from="1597834385186" duration="4651000" />
-      <workItem from="1597848696377" duration="5889000" />
+      <workItem from="1597848696377" duration="5907000" />
+      <workItem from="1597903346007" duration="80000" />
+      <workItem from="1597920380599" duration="396000" />
+      <workItem from="1597920784039" duration="1209000" />
+      <workItem from="1597950760656" duration="3100000" />
+      <workItem from="1597989630640" duration="599000" />
+      <workItem from="1597990262392" duration="606000" />
+      <workItem from="1598349228882" duration="6000" />
+      <workItem from="1598869787107" duration="724000" />
+      <workItem from="1598902631360" duration="1446000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1597153929941</created>
@@ -273,17 +276,24 @@
       <option name="project" value="LOCAL" />
       <updated>1597839223125</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add algo">
+      <created>1597903324973</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597903324973</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21164000" />
+    <option name="totallyTimeSpent" value="29348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20095949" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22014925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -312,7 +322,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="add new items" />
     <MESSAGE value="add 2 algoritms" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 2 algoritms" />
+    <MESSAGE value="add algo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add algo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Easy/branchSum.php">
@@ -434,13 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/levenstainDistance.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Medium/validateBst.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -458,27 +462,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/depthFirstSearchBinary.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/powerSet.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/bubbleSort.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/insertionSort.php">
+    <entry file="file://$PROJECT_DIR$/Medium/invertBinaryTree.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -496,17 +483,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/breadthFirstSearchBinary.php">
+    <entry file="file://$PROJECT_DIR$/Medium/powerSet.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="11" />
+        <state relative-caret-position="425">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/maxSubsetSumNoAdjacent.php">
+    <entry file="file://$PROJECT_DIR$/Medium/permutations.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/waterArea.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/bubbleSort.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/insertionSort.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -517,10 +521,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/invertBinaryTree.php">
+    <entry file="file://$PROJECT_DIR$/Medium/maxSubsetSumNoAdjacent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/breadthFirstSearchBinary.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <caret line="2" selection-start-line="2" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/depthFirstSearchBinary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/linkedListConstruction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/heapsort.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/minHeap.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/levenstainDistance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="42" selection-end-column="1" />
         </state>
       </provider>
     </entry>
