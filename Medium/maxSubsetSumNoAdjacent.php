@@ -10,23 +10,19 @@
  * @param array $array
  * @return int|mixed
  */
-function maxSubsetSumNoAdjacent(array $array): int
-{
+function maxSubsetSumNoAdjacent(array $array): int {
 	$cnt = count($array);
-	if (!$cnt)
-	{
+	if (!$cnt) {
 		//Массив пустой
 		return 0;
 	}
-	if ($cnt == 1)
-	{
+	if ($cnt == 1) {
 		//Массив на 1 элемент
 		return $array[0];
 	}
 	$second = $array[0];
 	$first = max($array[0], $array[1]);
-	for ($i = 2; $i < $cnt; $i++)
-	{
+	for ($i = 2; $i < $cnt; $i++) {
 		$current = max($first, $second + $array[$i]);
 		$second = $first;
 		$first = $current;

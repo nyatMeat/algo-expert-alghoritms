@@ -37,7 +37,8 @@ function quickSort(&$array, $low, $high)
 	{
 		quickSort($array, $low, $j);
 	}
-	if($high > $i){
+	if ($high > $i)
+	{
 		quickSort($array, $i, $high);
 	}
 }
